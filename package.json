@@ -8,12 +8,21 @@
     "start": "next start"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "latest",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
     "recoil": "latest",
     "sass": "latest"
+=======
+    "axios": "^0.19.1",
+    "next": "9.3.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.5"
+>>>>>>> 48e3576a6d23628cb71fb53649b7f10da7ed9257
   },
   "devDependencies": {
     "@types/axios": "latest",
